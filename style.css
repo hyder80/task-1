@@ -1,0 +1,45 @@
+
+
+body {
+  background-color: coral;
+  font-family: "Lato", sans-serif;
+}
+
+  
+
+.sidenav {
+  height: 50%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 4;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+
+.main {
+  margin-left: 200px;
+}
+.bottom-line {
+    
+    border-bottom: 5px solid rgb(0, 0, 0);
+  }
+.uper-space{
+    padding-top: 20px; 
+}
+.bottom-space{
+    padding-top: 40px;
+}
+
+
